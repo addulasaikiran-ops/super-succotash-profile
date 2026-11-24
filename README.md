@@ -115,10 +115,66 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
   <a href="https://github.com/addulasaikiran-ops?tab=repositories"><b>Explore all repositories →</b></a>
 </p>
 
-## GitHub at a glance
+## Developer snapshot
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-0F172A?style=for-the-badge&labelColor=1D4ED8" alt="Focus: Full-stack development"/>
+  <img src="https://img.shields.io/badge/BUILDING-Web%20%7C%20Mobile%20%7C%20Backend-0F172A?style=for-the-badge&labelColor=0891B2" alt="Building web, mobile and backend applications"/>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>End-to-end development</h3>
+      From responsive user interfaces to APIs, databases, and application workflows.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Product-minded problem solving</h3>
+      Turning practical needs into useful features, clear user flows, and working products.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cross-platform building</h3>
+      Experience across web applications, Android projects, and desktop prototypes.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Exploring applied technology</h3>
+      Building with computer vision, interactive 3D, and data-informed decision support.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### Projects that show how I build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/addulasaikiran-ops/SportsLink"><b>SPORTSLINK</b></a>
+      <p>Connecting a sports community through profiles, discovery, and professional networking.</p>
+      <sub>Full-stack product · Web and mobile</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/addulasaikiran-ops/Moog-1.0"><b>MOOG</b></a>
+      <p>Privacy-focused sharing with expiring links, access keys, and view-once content.</p>
+      <sub>Privacy-aware workflows · Backend</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/addulasaikiran-ops/FarmMind"><b>FARMMIND</b></a>
+      <p>Weather-aware irrigation recommendations designed to support smarter water use.</p>
+      <sub>Decision support · Data-driven applications</sub>
+    </td>
+  </tr>
+</table>
+
+### GitHub activity
 
 <p align="center">
-  <sub>A snapshot of my open-source activity, coding focus, and contribution consistency.</sub>
+  <sub>Explore my coding focus, contribution streak, and activity over time.</sub>
 </p>
 
 <div align="center">
@@ -126,7 +182,7 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=addulasaikiran-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&custom_title=Developer%20Stats" alt="GitHub developer statistics"/>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=addulasaikiran-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub overview statistics"/>
     </td>
     <td width="50%" align="center" valign="top">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addulasaikiran-ops&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=400" alt="Most used programming languages"/>
