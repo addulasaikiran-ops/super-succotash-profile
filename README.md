@@ -117,12 +117,30 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
 
 ## GitHub at a glance
 
+<p align="center">
+  <sub>A snapshot of my open-source activity, coding focus, and contribution consistency.</sub>
+</p>
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=addulasaikiran-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addulasaikiran-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages"/>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=addulasaikiran-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&custom_title=Developer%20Stats" alt="GitHub developer statistics"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addulasaikiran-ops&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&card_width=400" alt="Most used programming languages"/>
+    </td>
+  </tr>
+</table>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=addulasaikiran-ops&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<br/>
+
+<img width="82%" src="https://streak-stats.demolab.com?user=addulasaikiran-ops&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&stroke=1F2937" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=addulasaikiran-ops&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=06B6D4&area=true&area_color=1D4ED8&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
