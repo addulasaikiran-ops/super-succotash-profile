@@ -15,27 +15,27 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I'm **Addula Sai Kiran**, a developer focused on building practical, user-centered software. I enjoy working across the stack—from polished interfaces and application logic to APIs, databases, and deployment.
 
-- 🚀 Build full-stack web and mobile applications
+- Build full-stack web and mobile applications
 - 🧩 Enjoy solving real-world problems through software
 - 🛠️ Work across frontend, backend, databases, and developer tools
 - 🔍 Explore computer vision and data-driven applications
 
-## ✨ Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏅 <a href="https://github.com/addulasaikiran-ops/SportsLink">SPORTSLINK</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/SportsLink">SPORTSLINK</a></h3>
       A sports-focused professional network connecting athletes, coaches, scouts, clubs, and sports professionals.
       <br/><br/>
       <sub>Next.js · React · Spring Boot · Java · Supabase</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/addulasaikiran-ops/Moog-1.0">MOOG</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/Moog-1.0">MOOG</a></h3>
       Privacy-minded text sharing with expiring links, optional access keys, and view-once sharing.
       <br/><br/>
       <sub>Next.js · TypeScript · Prisma · PostgreSQL</sub>
@@ -43,13 +43,13 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/addulasaikiran-ops/SDSAIFAT">DSA Practice Studio</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/SDSAIFAT">DSA Practice Studio</a></h3>
       A coding-practice workspace with a Java editor, problem catalogue, and progress tools.
       <br/><br/>
       <sub>React · TypeScript · Monaco Editor</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/addulasaikiran-ops/FarmMind">FarmMind</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/FarmMind">FarmMind</a></h3>
       Weather-aware irrigation decision support with explainable recommendations and water-use analytics.
       <br/><br/>
       <sub>Next.js · React · PostgreSQL · Redis</sub>
@@ -57,13 +57,13 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/addulasaikiran-ops/Dowrise_detector">Drowsiness Detector</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/Dowrise_detector">Drowsiness Detector</a></h3>
       A computer-vision prototype that detects eye closure and fatigue indicators from webcam input.
       <br/><br/>
       <sub>Python · MediaPipe · OpenCV</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/addulasaikiran-ops/EDBODY">EDBODY</a></h3>
+      <h3><a href="https://github.com/addulasaikiran-ops/EDBODY">EDBODY</a></h3>
       A desktop research prototype featuring an interactive 3D interface and local demo workflows.
       <br/><br/>
       <sub>Electron · React · TypeScript · Three.js</sub>
@@ -75,7 +75,7 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
   <a href="https://github.com/addulasaikiran-ops?tab=repositories"><b>Explore all repositories →</b></a>
 </p>
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
 
 </div>
 
-## 📊 GitHub at a glance
+## GitHub at a glance
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
 
 </div>
 
-## 🤝 Let's connect
+## Let's connect
 
 <div align="center">
 
