@@ -20,9 +20,49 @@
 I'm **Addula Sai Kiran**, a developer focused on building practical, user-centered software. I enjoy working across the stack—from polished interfaces and application logic to APIs, databases, and deployment.
 
 - Build full-stack web and mobile applications
-- 🧩 Enjoy solving real-world problems through software
-- 🛠️ Work across frontend, backend, databases, and developer tools
-- 🔍 Explore computer vision and data-driven applications
+- Enjoy solving real-world problems through software
+- Work across frontend, backend, databases, and developer tools
+- Explore computer vision and data-driven applications
+
+## Tech stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend & backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Featured projects
 
@@ -74,24 +114,6 @@ I'm **Addula Sai Kiran**, a developer focused on building practical, user-center
 <p align="center">
   <a href="https://github.com/addulasaikiran-ops?tab=repositories"><b>Explore all repositories →</b></a>
 </p>
-
-## Tech stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin" alt="JavaScript, TypeScript, Python, Java and Kotlin"/>
-
-**Frontend & backend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,nodejs" alt="React, Next.js, Tailwind CSS, Spring and Node.js"/>
-
-**Data, tools & platforms**
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,git,github,docker" alt="PostgreSQL, Supabase, Redis, Git, GitHub and Docker"/>
-
-</div>
 
 ## GitHub at a glance
 
